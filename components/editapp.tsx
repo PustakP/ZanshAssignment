@@ -51,7 +51,7 @@ const EditApp = () => {
             <div className="inline-block p-4 bg-green-100 rounded-full mb-6">
               <Star className="w-8 h-8 text-green-500" />
             </div>
-            <h2 className="text-2xl font-semibold mb-2">Let's add some questions to your applications</h2>
+            <h2 className="text-2xl font-semibold mb-2">Let&apos;s add some questions to your applications</h2>
             <p className="text-gray-600 mb-6">Click the button below to get your survey up and running.</p>
             <Button onClick={() => setIsModalOpen(true)} className="mt-4">
         Add Question
